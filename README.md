@@ -20,7 +20,3 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 | 2\_Architectures | Documents specifying design details |
 | 3\_Implementation | All code and documentation |
 | 4\_Test\_plan | Documents with test plans and procedures |
-|
- |
- |
-
