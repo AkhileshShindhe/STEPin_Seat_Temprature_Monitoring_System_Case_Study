@@ -2,7 +2,7 @@
 #define __ACTIVITY_2_H__
 /**
  * @file activity2.h
- * @author achyuth (achyuthrudru1999@gmail.com)
+ * @author achyuth (akhileshshindhe@gmail.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-16
