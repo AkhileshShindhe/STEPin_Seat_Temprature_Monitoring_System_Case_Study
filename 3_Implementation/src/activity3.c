@@ -1,6 +1,6 @@
 /**
  * @file activity3.c
- * @author achyuth (achyuthrudru1999@gamil.com)
+ * @author achyuth (akhileshshindhe@gamil.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-16
