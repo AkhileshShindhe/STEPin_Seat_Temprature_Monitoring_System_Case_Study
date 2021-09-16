@@ -1,6 +1,6 @@
 /**
  * @file activity2.c
- * @author your name (achyuthrudru1999@gamil.com)
+ * @author your name (akhileshshindhe@gamil.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-16
