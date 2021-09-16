@@ -1,6 +1,6 @@
 /**
  * @file activity1.c
- * @author achyuth (achyuthrudru1999@gmail.com)
+ * @author achyuth (akhileshshindhe@gmail.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-16
