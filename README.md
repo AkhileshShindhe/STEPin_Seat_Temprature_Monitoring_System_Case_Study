@@ -12,4 +12,16 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 - It is best for those countries where the room temperature will be below -5\* Celsius .
 - This system is cost effective and user friendly.
 
+**Folder Structure**
+
+| **Folder** | **Description** |
+| --- | --- |
+| 1\_Requirements | Documents detailing requirements and research |
+| 2\_Architectures | Documents specifying design details |
+| 3\_Implementation | All code and documentation |
+| 4\_Test\_plan | Documents with test plans and procedures |
+|
+ |
+ |
+
 [![Cppcheck](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Codequality.yml)
