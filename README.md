@@ -24,4 +24,3 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
  |
  |
 
-[![Cppcheck](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Codequality.yml)
