@@ -22,5 +22,5 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 | 4\_Test\_plan | Documents with test plans and procedures |
 
 
-(https://www.code-inspector.com/project/29015/score/svg)
-(https://www.code-inspector.com/project/29015/status/svg)
+[![codeinspector](https://www.code-inspector.com/project/29015/score/svg)
+[![codeinspector](https://www.code-inspector.com/project/29015/status/svg)
