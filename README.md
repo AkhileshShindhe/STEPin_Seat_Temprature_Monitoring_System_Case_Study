@@ -20,4 +20,4 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 | 2\_Architectures | Documents specifying design details |
 | 3\_Implementation | All code and documentation |
 | 4\_Test\_plan | Documents with test plans and procedures |
-[![Makefile](https://github.com/AkhileshShindhe/STEPin_Seat-Temprature-Monitoring-System/actions/workflows/Makefile.yml/badge.svg)](https://github.com/AkhileshShindhe/STEPin_Seat-Temprature-Monitoring-System/workflows/Makefile.yml)
+
