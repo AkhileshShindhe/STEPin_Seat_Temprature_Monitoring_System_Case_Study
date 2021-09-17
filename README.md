@@ -26,4 +26,4 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 ![codeinspector](https://www.code-inspector.com/project/29015/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/de2c45a066ad4d87a9160dec012fced7)](https://www.codacy.com/gh/AkhileshShindhe/STEPin_Seat_Temprature_Monitoring_System_Case_Study/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AkhileshShindhe/STEPin_Seat_Temprature_Monitoring_System_Case_Study&amp;utm_campaign=Badge_Grade)
 [![Compile-Linux](https://github.com/AkhileshShindhe/STEPin_Seat_Temprature_Monitoring_System_Case_Study/actions/workflows/Compile.yml/badge.svg)](https://github.com/AkhileshShindhe/STEPin_Seat_Temprature_Monitoring_System_Case_Study/actions/workflows/Compile.yml)
-[![Compile-Linux](https://github.com/AkhileshShindhe/STEPin_Seat_Temprature_Monitoring_System_Case_Study/actions/workflows/Compile.yml/badge.svg)](https://github.com/AkhileshShindhe/STEPin_Seat_Temprature_Monitoring_System_Case_Study/actions/workflows/Compile.yml)
+
